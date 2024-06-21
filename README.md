@@ -19,7 +19,8 @@ Finance Tracker is a mobile application built using the React Native framework, 
 - **Redux Toolkit:** A toolset for efficient Redux development, providing streamlined state management and data sharing across components.
 
 
-##Screenshots
+## ScreenShots
+
 <img width="199" alt="1" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/95fc88d2-ec92-4e2a-aa7f-c8d5ba47a855">
 <img width="196" alt="2" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/9c828d86-0e57-4c34-991d-29a8855be06a">
 <img width="196" alt="3" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/7617f60a-7a9a-43f3-9839-c9d1e6a3a4f0">
