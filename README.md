@@ -1,5 +1,24 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+# Finance Tracker
+
+Finance Tracker is a mobile application built using the React Native framework, designed to help users manage their finances effectively. The application leverages Redux Toolkit for state management, allowing for seamless data sharing across all screens. The project is structured to facilitate future enhancements, ensuring that it can grow with new features as needed.
+
+## Features
+
+- **Add Expenses:** Users can add their expenses, including the amount, category, date, and description.
+- **Add Income:** Users can also record their income with details such as amount, source, date, and description.
+- **View Transactions:** A comprehensive view of all income and expenses with filtering options by date and category.
+- **Category-wise Graphs:** Visual representation of income and expenses categorized to provide insights into financial patterns.
+
+
+## Technologies Used
+
+- **React Native:** A popular framework for building native mobile apps using JavaScript and React.
+- **Redux Toolkit:** A toolset for efficient Redux development, providing streamlined state management and data sharing across components.
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -41,6 +60,16 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
+
+##Screenshots
+<img width="199" alt="1" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/95fc88d2-ec92-4e2a-aa7f-c8d5ba47a855">
+<img width="196" alt="2" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/9c828d86-0e57-4c34-991d-29a8855be06a">
+<img width="196" alt="3" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/7617f60a-7a9a-43f3-9839-c9d1e6a3a4f0">
+<img width="197" alt="4" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/d2470163-ce8d-4af7-ac56-1aa7ca7fc76c">
+<img width="195" alt="5" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/59d60838-b8da-4583-8c4e-ab4c59d706c3">
+<img width="194" alt="6" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/78be95f1-94b2-4f47-845b-0d1930b0d214">
+<img width="194" alt="7" src="https://github.com/ShubhamMaurya22/react-native-finance-tracker/assets/104679743/78503cd0-b47e-4efd-b014-f7c2d5fbbf58">
+
 
 If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
